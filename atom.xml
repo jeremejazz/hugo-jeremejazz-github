@@ -5,7 +5,7 @@
   <subtitle><![CDATA[My Adventures in Github space]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jeremejazz.github.io//"/>
-  <updated>2015-07-04T16:06:10.000Z</updated>
+  <updated>2015-07-04T16:09:58.000Z</updated>
   <id>http://jeremejazz.github.io//</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://jeremejazz.github.io/2015/07/04/new-github-blog/"/>
     <id>http://jeremejazz.github.io/2015/07/04/new-github-blog/</id>
     <published>2015-07-04T00:36:26.000Z</published>
-    <updated>2015-07-04T16:06:10.000Z</updated>
+    <updated>2015-07-04T16:09:58.000Z</updated>
     <content type="html"><![CDATA[<p>Hi there so I have just created a new blog using hexo, a program that lets you publish static blogs. This is great since I can log all my updates in Github here.<br>From the projects I do to the other projects I find interesting. </p>
 <p>So I have to admit, this isn’t very hard at first. I had to set up the project using hexo. Good thing there is  <a href="http://c9.io" target="_blank" rel="external">Cloud9</a>. An online ide and a virtual server as well. So I can install all the tools I need and edit the project wherever I go. I have also set up a <a href="https://github.com/jeremejazz/hexo-jeremejazz" title="Go to repository" target="_blank" rel="external">github repository</a> for this.<br>But anyway it is still rewarding since I have manage to generate a blog. </p>
 <p>Hexo is a great tool especially for hosting that only allows static pages like HTML. It’s the javascript counterpart of Jekyll, which is using Ruby. The only thing Hexo is behind Jekyll is that github somehow where they are automatically generated when you push your Jekyll project, or that’s how I see it.<br>But anyway hexo is still a charmer since it has a one command deploy feature (hexo deploy).</p>
@@ -29,6 +29,8 @@
     <summary type="html">
     <![CDATA[<p>Hi there so I have just created a new blog using hexo, a program that lets you publish static blogs. This is great since I can log all my]]>
     </summary>
+    
+      <category term="uncategorized" scheme="http://jeremejazz.github.io/tags/uncategorized/"/>
     
   </entry>
   
