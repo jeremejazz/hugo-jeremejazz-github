@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[jeremejazz]]></title>
+  <subtitle><![CDATA[My Adventures in Github space]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://jeremejazz.github.io//"/>
+  <updated>2015-07-04T08:49:49.000Z</updated>
+  <id>http://jeremejazz.github.io//</id>
+  
+  <author>
+    <name><![CDATA[Jereme Causing]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[New Github Blog]]></title>
+    <link href="http://jeremejazz.github.io/2015/07/04/new-github-blog/"/>
+    <id>http://jeremejazz.github.io/2015/07/04/new-github-blog/</id>
+    <published>2015-07-04T00:36:26.000Z</published>
+    <updated>2015-07-04T08:49:49.000Z</updated>
+    <content type="html"><![CDATA[<p>Hi there so I have just created a new blog using hexo, a program that lets you publish static blogs. This is great since I can log all my updates in Github here.<br>From the projects I do to the other projects I find interesting. </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Hi there so I have just created a new blog using hexo, a program that lets you publish static blogs. This is great since I can log all my]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
