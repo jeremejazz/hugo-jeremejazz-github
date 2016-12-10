@@ -1,14 +1,24 @@
-#! usr/local/bin
+#!/usr/bin/env bash
 
 
 #remove public content 
+echo "removing public "
 git rm -r public  
 
 
 #run hugo compiler
+echo "building public folder"
 ../bin/hugo
 
-echo "Deploying..."
+echo "compiling less files"
+#less compiler 
+lessc less/freelancer.css public/css/freelancer.css
+#TODO minify. but might require to configure theme repo. 
+# bette off this way for now
+
+
+echo "Starting deployment... press enter to Continue. CTRL + C to cancel"
+read -p "Press enter to continue"
 cd public 
 git add .
 git commit -m "update website"

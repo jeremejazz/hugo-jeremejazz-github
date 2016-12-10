@@ -7,3 +7,8 @@ Requirements:
 - less
 - node.js/npm
 - gulp
+
+
+Workstation:
+
+https://ide.c9.io/jereme/hugo-jeremejazz-github
