@@ -3,7 +3,7 @@
 
 #remove public content 
 echo "removing public "
-git rm -r public  
+
 
 rm -rf public
 git subtree add --prefix=public git@github.com:jeremejazz/jeremejazz.github.com.git master--squash
