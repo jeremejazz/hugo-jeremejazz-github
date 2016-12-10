@@ -29,11 +29,11 @@ theme = "hugo-freelancer-theme"
     email = "gmail@jeremecausing.com"
 
     # Custom assets
-	custom_css = []
+	custom_css = ['css/styles.css']
 	custom_js  = []
 
     [params.navigation]
-        brand = "jeremeazz"
+        brand = "jeremejazz"
 
 
     [params.header]
@@ -122,5 +122,5 @@ theme = "hugo-freelancer-theme"
 
 
         [params.footer.credits]
-            title = "About Freelancer"
+            title = "About Theme"
             text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."

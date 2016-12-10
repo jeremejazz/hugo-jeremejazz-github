@@ -12,24 +12,24 @@ git subtree pull --prefix=public  git@github.com:jeremejazz/jeremejazz.github.co
 #run hugo compiler
 echo "building public folder"
 ../bin/hugo
-
-git add -A
-
 echo "compiling less files"
 #less compiler 
 lessc less/freelancer.less public/css/freelancer.css
+
+git add -A
+
+
 #TODO minify. but might require to configure theme repo. 
 # bette off this way for now
 
 
 echo "Starting deployment... press enter to Continue. CTRL + C to cancel"
 read -p "Press enter to continue"
+ 
+# Commit and push to master
+git commit -m "Updating site" && git push origin master
 
-
-function deploy(){
-
-}
-
-deploy
+# Push the public subtree to the gh-pages branch
+git subtree push --prefix=public git@github.com:spencerlyon2/hugo_gh_blog.git gh-pages
 
 #enter credentials here  
