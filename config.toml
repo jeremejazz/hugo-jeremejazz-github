@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "avatar.png"
         name = "Jereme Causing"
-        subtitle = "Blogger - Developer - PHPer"
+        subtitle = "Blogger - Developer - Enthusiast"
 
 
     [params.portfolio]
