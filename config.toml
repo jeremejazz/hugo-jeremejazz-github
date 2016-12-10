@@ -1,7 +1,7 @@
 # Site settings
 baseurl = ""
 languageCode = "en-us"
-title = "Hugo Freelancer Theme"
+title = "Jereme Causing"
 theme = "hugo-freelancer-theme"
 
 
@@ -12,8 +12,8 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Mr. Hugo"
-    description = "My awesome description"
+    name = "Jereme Causing"
+    description = "I'm just a simple Software Developer"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -26,7 +26,7 @@ theme = "hugo-freelancer-theme"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "your@email.com"
+    email = "gmail@jeremecausing.com"
 
     # Custom assets
 	custom_css = []
@@ -48,7 +48,7 @@ theme = "hugo-freelancer-theme"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Repositories"
+        title = "Repos"
 
         [params.portfolio.modal]
             client = "Client"

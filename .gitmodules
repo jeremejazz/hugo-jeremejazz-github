@@ -1,9 +1,6 @@
 [submodule "themes/hugo-freelancer-theme"]
 	path = themes/hugo-freelancer-theme
 	url = https://github.com/jeremejazz/hugo-freelancer-theme.git
-[submodule "jeremejazz.github.com"]
-	path = jeremejazz.github.com
-	url = https://github.com/jeremejazz/jeremejazz.github.com.git
 [submodule "public"]
 	path = public
 	url = https://github.com/jeremejazz/jeremejazz.github.com.git
