@@ -80,11 +80,10 @@ theme = "hugo-freelancer-theme"
         [params.contact.form.email]
             text = "Email Address"
             error = "Please enter your email address."
-        
-        # not necessary v v
-        #[params.contact.form.phone]
-        #    text = "Phone Number"
-        #    error = "Please enter your phone number."
+
+        [params.contact.form.phone]
+            text = "Phone Number"
+            error = "Please enter your phone number or leave a dash (-) instead"
 
         [params.contact.form.message]
             text = "Message"
