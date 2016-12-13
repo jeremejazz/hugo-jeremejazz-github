@@ -107,6 +107,9 @@ theme = "hugo-freelancer-theme"
             # for more icons. The icons are represented by their corresponding
             # CSS class.
             [[params.footer.social.networks]]
+                icon = "fa-globe"
+                link = "http://jeremecausing.com"            
+            [[params.footer.social.networks]]
                 icon = "fa-facebook"
                 link = "//facebook.com/jeremejazz"
             [[params.footer.social.networks]]

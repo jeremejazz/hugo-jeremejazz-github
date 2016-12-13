@@ -5,4 +5,4 @@ img: phppad.png
 client: Self
 clientLink: "#"
 category: Web Development
-description: A PHP application that lets you play arount with scripts directly at the browser. <p><a href="https://github.com/jeremejazz/phppad" class="btn btn-success">Go to Repo</a></p>
+description: A PHP application that lets you play arount with scripts directly at the browser. <p><a href="https://github.com/jeremejazz/phppad" class="btn btn-success">View on Github</a></p>
