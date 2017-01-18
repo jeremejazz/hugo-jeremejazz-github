@@ -1,8 +1,8 @@
-modalID: 3
+modalID: 2
 title: CSS Button Generator
-date: 2013-03-12
+date: 2013-03-11
 img: css_button_generator.png
 client: Self
 clientLink: "#"
 category: Web Development
-description: Tool made by css-tricks.com. I just added syntax highlighting and additional options as well. You can download this for offline use. <p><a href="https://github.com/jeremejazz/phppad" class="btn btn-success">View on Github</a></p>
+description: Customized the Button Maker made by css-tricks.com. Added features such as syntax highlighting, additional options, and other design upgrades. You can download this for offline use. <p><a href="https://github.com/jeremejazz/CSSButtonGenerator" class="btn btn-success">View on Github</a></p>
