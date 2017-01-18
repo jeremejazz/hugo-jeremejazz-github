@@ -18,7 +18,9 @@ lessc less/freelancer.less public/css/freelancer.css
 #TODO minify. but might require to configure theme repo. 
 # bette off this way for now
 
-git add .
+#create nojekyll file 
+touch static/.nojekyll
+
 
 
 
