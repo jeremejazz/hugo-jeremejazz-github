@@ -94,7 +94,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io) and [Start Bootstrap](//startbootstrap.com)."
 
         [params.footer.location]
             title = "Location"
@@ -125,5 +125,5 @@ theme = "hugo-freelancer-theme"
 
 
         [params.footer.credits]
-            title = "About Theme"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+            title = "About"
+            text = "Professional software developer providing web and mobile solutions."
