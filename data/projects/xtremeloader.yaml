@@ -5,4 +5,4 @@ img: xtremeloader_init.png
 client: Self
 clientLink: "#"
 category: Mobile Development
-description: Hybrid mobile application using Loadxtreme API for cellphone loading. Currently under development <p><a href="https://github.com/jeremejazz/xtremeloader" class="btn btn-success">View on Github</a></p>
+description: Hybrid mobile application using Loadxtreme API for cellphone loading. Currently under development. UI is subject to change. <p><a href="https://github.com/jeremejazz/xtremeloader" class="btn btn-success">View on Github</a></p>
