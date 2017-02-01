@@ -60,8 +60,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I enjoy software development both as a profession and a hobby. "
-        right = "If you'd like to contribute, feel free to check out my github repositories"
+        left = "I enjoy software development both as a profession and a hobby. It's fun and lets you learn a lot."
+        right = "This website is a showcase of repositories I work or contribute during free time. If you find them interesting feel free to check them out"
 
         [params.about.button]
             text = "Visit Github"
