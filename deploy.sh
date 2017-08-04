@@ -29,7 +29,8 @@ read -p "Press enter to continue"
  
 # Commit and push to master
 # Commit and push to master
-git commit -m "Updating site" && git push origin master
+
+git commit -am "Updating site" && git push origin master
 
 # Push the public subtree to the gh-pages branch
 git subtree push --prefix=public git@github.com:jeremejazz/jeremejazz.github.com.git master
